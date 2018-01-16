@@ -1,3 +1,4 @@
+#这个无界面窗口用来演示如何创建信号 如何创建槽函数 如何连接和响应
 from PyQt5.QtCore import QObject, pyqtSignal
 
 class QTypeSignal(QObject):
